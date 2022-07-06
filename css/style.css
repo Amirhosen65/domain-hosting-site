@@ -1,0 +1,28 @@
+.nav-link img{
+    height: 20px;
+}
+body{
+    background-color: gray;
+    height: 4000px;
+}
+
+.navbar-brand img{
+    height: 40px;;
+}
+.social-image img{
+    margin: 4px;
+    gap: 10px;
+}
+.navbar-nav .nav-item .nav-link {
+    color: rgb(0, 0, 0);
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: #ffc107;
+}
+
+
+.header-bg img{
+    height: 680px;
+    width: 1680px;
+}
